@@ -3,4 +3,8 @@ Test GB
 
 ## Test from github
 
-test local
+test from local:
+
+* one
+* two
+* three
